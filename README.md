@@ -4,6 +4,5 @@
     url (Internet is required to display image).
 
 # UI Design
-[![N|Solid](https://github.com/AndroidCodility/HTML-WebView/blob/master/device-2018-01-05-150741.png?raw=true)]
-
+![N|Solid](https://github.com/AndroidCodility/HTML-WebView/blob/master/design/html_web.png?raw=true)
 
